@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "65e601de7775dcfb7e570f10"
+  },
+  "studentid": "1001",
+  "name": "Hello1",
+  "activitytype": "Sports",
+  "duration": "2 years",
+  "achievements": "Won regional championship"
+},
+{
+  "_id": {
+    "$oid": "65e601de7775dcfb7e570f11"
+  },
+  "studentid": "1002",
+  "name": "Hello2",
+  "activitytype": "Music",
+  "duration": "3 years",
+  "achievements": "Performed in school concerts"
+},
+
+{
+  "_id": {
+    "$oid": "65e601e4e631237ed769951a"
+  },
+  "studentid": "1003",
+  "name": "hello3",
+  "activitytype": "swimming",
+  "duration": "1 years",
+  "achievements": "won a 200m race"
+}]
